@@ -1,0 +1,1 @@
+/home/yunus/Programming/Rust/Advent-of-Code-2022-Rust/Day-01_Calorie-Counting/target/debug/Day-01_Calorie-Counting: /home/yunus/Programming/Rust/Advent-of-Code-2022-Rust/Day-01_Calorie-Counting/src/main.rs
