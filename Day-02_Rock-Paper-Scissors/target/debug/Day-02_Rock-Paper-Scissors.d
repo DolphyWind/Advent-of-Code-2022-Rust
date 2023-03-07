@@ -1,1 +1,0 @@
-/home/yunus/Programming/Rust/Advent-of-Code-2022-Rust/Day-02_Rock-Paper-Scissors/target/debug/Day-02_Rock-Paper-Scissors: /home/yunus/Programming/Rust/Advent-of-Code-2022-Rust/Day-02_Rock-Paper-Scissors/src/main.rs
