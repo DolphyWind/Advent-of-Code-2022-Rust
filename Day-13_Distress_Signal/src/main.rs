@@ -180,6 +180,8 @@ fn main() {
         }
     }
 
+    println!("Part One: {}", part_one_sum);
+
     inputs.retain(|x| !(*x).is_empty());
     inputs.push("[[2]]".to_string());
     inputs.push("[[6]]".to_string());
@@ -191,7 +193,6 @@ fn main() {
 
     parsed_inputs.sort_by(|a, b| compare(a.clone(), b.clone()));
 
-    println!("Part One: {}", part_one_sum);
     let mut idx1 = 1 + parsed_inputs.iter().position(|r| r.to_string() == "[[2]]".to_string()).unwrap();
     let mut idx2 = 1 + parsed_inputs.iter().position(|r| r.to_string() == "[[6]]".to_string()).unwrap();
 
